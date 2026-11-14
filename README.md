@@ -4,7 +4,7 @@
 **Course Title:** Fundamentals of Internet of Things + Lab  
 **Institution:** Shiv Nadar University, Chennai — Department of Computer Science & Engineering  
 **Academic Level:** B.Tech CSE (IoT) — II Year / 3rd Semester  
-**Student Register Number:** 25011102023  
+**Student Register Number:** 25011102056 
 **Default Branch:** `main`
 
 ---
